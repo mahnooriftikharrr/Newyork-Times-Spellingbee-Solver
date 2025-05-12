@@ -4,6 +4,9 @@ The **Newyork Times Spelling Bee Solver** is a Java-based application that helps
 
 ---
 
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/12d87932-cd9a-4c6a-9ba3-fa8eb08fb288" />
+
+
 ## Features
 
 - **Graphical Interface**: Displays a hexagonal beehive with the entered letters.
